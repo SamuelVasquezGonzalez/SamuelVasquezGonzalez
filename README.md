@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3og0IAY8yoqClDFD1u/giphy.gif" width="300" />
-    <h1 align="center">Hi Everyone🤟, I'm SamuGonza </h1>
+    <img src="https://user-images.githubusercontent.com/84251131/233651126-06838a4c-e873-45dd-b8de-29abc35fe636.png" width="700" />
+    <h1 align="center">Hi Everyone🤟, I'm SamuGonza👨‍💻 </h1>
     <h3>I am a Colombian Internet user who is passionate about software development, especially web development and its backend infrastructure. Although I can do fullstack web development perfectly, from frontend to backend, I love doing projects that help me grow as a developer.</h3>
 </div>
 
