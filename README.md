@@ -16,7 +16,7 @@
 ```
 
 You can find me 🌎:
-- 🌐 [My Web](https://portafoliopersonal.onrender.com)
+- 🌐 [My Web](https://samuegonzalez.netlify.app/)
 - 📧 [My Email](samvasgoo@gmail.com)
 - 📷 [Instagram](instagram.com/samugonza.jpg)
 
