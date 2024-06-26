@@ -8,9 +8,9 @@
 ```js
 
     const samuGonza = {
-        technologies: "web",
-        code: [Javascript, Html, Css, Mysql],
-        tools: [Node, React]
+        Area: "Web Development",
+        code: [Javascript, Html, Css, Mysql, Typescript, MongoDB],
+        Frameworks: [Express, Nest, React, React Native, Sass]
     }
 
 ```
